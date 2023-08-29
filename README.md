@@ -1,2 +1,2 @@
 # Twitter-Riddles
-Random solutions to probability related riddles from (mostly) Twitter
+Solutions to random probability related riddles from (mostly) Twitter
